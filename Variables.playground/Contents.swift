@@ -4,9 +4,11 @@ print(favoriteCharacter)
 favoriteCharacter = "Tyrion Lannister"
 print(favoriteCharacter)
 
-favoriteCharacter = 76
+favoriteCharacter = "Arya Stark"
+print(favoriteCharacter)
 
-let ultimateFavoriteCharacter = "Arya Stark"
+//favoriteCharacter = 76
+
+
+let ultimateFavoriteCharacter = "Daenerys Targaryen"
 print(ultimateFavoriteCharacter)
-
-ultimateFavoriteCharacter = "Daenerys Targaryen"
